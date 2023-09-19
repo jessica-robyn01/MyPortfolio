@@ -1,0 +1,52 @@
+nav {
+    background-color: #ffffff69;
+    height:15vh;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    border-bottom: 1pt solid #e8e6e6;
+
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a{
+    padding-right: 20px;
+    text-decoration: none;
+    color:#597073;
+}
+
+.navimg img{
+    height: 20vh;
+}
+
+.navimg{
+text-align: center;
+margin-top: -17.5vh;
+
+}
+
+.containers img{
+    width:30vw;
+}
+
+.containers{
+    display: flex;
+    flex-wrap: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: -28px;
+}
+
+.containers h1{
+    background-color: #efefef;
+    padding:30px;
+    margin-top: -8px;
+}
+
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
