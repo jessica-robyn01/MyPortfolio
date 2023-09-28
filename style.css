@@ -39,7 +39,7 @@ margin-top: -17.5vh;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    gap:2vw;
+    gap:2.5vh;
 }
 
 .containers1 h1{
@@ -61,7 +61,7 @@ margin-top: -17.5vh;
     flex-wrap: wrap;
 
     text-align: center;
-    gap:2vw;
+    gap:2.5vh;
 }
 
 .containers2 h1{
@@ -75,13 +75,24 @@ margin-top: -17.5vh;
 .father{
     display: flex;
     flex-direction: row;
-    gap:5vw;
+    gap:1vw;
     justify-content: center;
 }
 
 .anu, .fresh{
     width:30vw;
 }
+
+.about{
+    text-align: center;
+}
+
+.resume{
+    text-align: center;
+}
+
+
+
 
 *{
     margin: 0;
